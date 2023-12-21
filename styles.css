@@ -1,0 +1,102 @@
+* {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 0.1em;
+}
+
+nav {
+    background-color: #333;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #eee;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section ul {
+    list-style-type: disc;
+    margin: 10px 0; /* Añadido margen superior e inferior para separar las viñetas de los elementos */
+    padding-left: 20px; /* Añadido espacio a la izquierda para las viñetas */
+}
+
+section li {
+    margin-bottom: 5px;
+}
+
+section a {
+    color: #333; /* Añadido color específico para los enlaces en la sección */
+}
+
+section a:hover {
+    color: #555; /* Añadido color específico para los enlaces en la sección al pasar el mouse */
+}
+
+h2 {
+    color: #333;
+}
+
+h3 {
+    color: #555;
+}
+
+.framework {
+    margin-bottom: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    width: 100px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+
+
+
+
