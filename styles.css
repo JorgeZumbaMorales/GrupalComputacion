@@ -101,6 +101,61 @@ footer {
 }
 
    
+h4{
+    color: #555;
+}
+#bdnest{
+    background-color:/*#293132*/ #05575B;
+}
+#nest{
+    background-color:/*#8FAFC4*/ #003A45;
+}
 
+#inicionest, #concepto {
+    background-color:/*#336A86*/ #65A4AB;
+ }
+
+ #como-se-usa-nest {
+    background-color:/*#336A86*/ #65A4AB;
+ }
+
+ #porque-elegir-nest {
+    background-color:/*#336A86*/ #65A4AB;
+ }
+ #ejemplos-nest{
+    background-color:/* #336A86*/ #65A4AB;
+ }
+ #ventajas-desventajas-nest{
+    background-color: /*#336A86*/ #65A4AB;
+ }
+#fdnest{
+    background-color: /*#8FAFC4*/ #C3DEE5;
+}
+
+ .projects {
+    display: flex;
+    justify-content: space-between;
+   }
+   
+   .project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+   }
+   
+   .project .project-name {
+    text-align: center;
+   }
+   
+   .project img {
+    width: 100%;
+    height: auto;
+   }
+
+   .project .project-description {
+    text-align: center;
+   }
+   
 
 
